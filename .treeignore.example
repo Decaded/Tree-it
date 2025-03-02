@@ -1,0 +1,6 @@
+# Exclude .git and node_modules directories
+.git
+node_modules
+
+# Exclude .gitignore file
+.gitignore
